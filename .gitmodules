@@ -1,0 +1,39 @@
+[submodule "external/fastmcp"]
+	path = external/fastmcp
+	url = https://github.com/muratcankoylan/fastmcp.git
+[submodule "external/BACKPRESSURE"]
+	path = external/BACKPRESSURE
+	url = https://github.com/muratcankoylan/BACKPRESSURE.git
+[submodule "external/Impossible-Moments"]
+	path = external/Impossible-Moments
+	url = https://github.com/muratcankoylan/Impossible-Moments.git
+[submodule "external/Agent-Skills-for-Context-Engineering"]
+	path = external/Agent-Skills-for-Context-Engineering
+	url = https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering.git
+[submodule "external/ralph-wiggum-marketer"]
+	path = external/ralph-wiggum-marketer
+	url = https://github.com/muratcankoylan/ralph-wiggum-marketer.git
+[submodule "external/qmd"]
+	path = external/qmd
+	url = https://github.com/muratcankoylan/qmd.git
+[submodule "external/skills-Trail-of-Bits"]
+	path = external/skills-Trail-of-Bits
+	url = https://github.com/muratcankoylan/skills-Trail-of-Bits-.git
+[submodule "external/book-training"]
+	path = external/book-training
+	url = https://github.com/muratcankoylan/book-training.git
+[submodule "external/awesome-claude-skills"]
+	path = external/awesome-claude-skills
+	url = https://github.com/muratcankoylan/awesome-claude-skills.git
+[submodule "external/composioskills"]
+	path = external/composioskills
+	url = https://github.com/muratcankoylan/composioskills.git
+[submodule "external/readwren"]
+	path = external/readwren
+	url = https://github.com/muratcankoylan/readwren.git
+[submodule "external/airweave"]
+	path = external/airweave
+	url = https://github.com/muratcankoylan/airweave.git
+[submodule "external/Context-Engineering"]
+	path = external/Context-Engineering
+	url = https://github.com/muratcankoylan/Context-Engineering.git
